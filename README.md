@@ -23,3 +23,7 @@
 16. Oscillators
 17. ADC & DAC
 18. Transformers
+19. Motor Types
+20. Sensor Types
+21. Microcontroller & Microprocessors
+22. Programmers
